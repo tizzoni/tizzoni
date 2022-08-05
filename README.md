@@ -1,4 +1,4 @@
-Sobre mim
+# Sobre mim
 
 - 👋 Opa, meu nome é @Tizzoni
 - 👀 Eu estou interessado em aprender mais sobre programação
